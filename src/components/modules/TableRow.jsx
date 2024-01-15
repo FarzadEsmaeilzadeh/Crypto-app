@@ -1,4 +1,4 @@
-import { marketChart } from "../../services/cryptoApt";
+import { marketChart } from "../../services/cryptoApi";
 
 import chartUp from "../../assets/chart-up.svg";
 import chartDown from "../../assets/chart-down.svg";
